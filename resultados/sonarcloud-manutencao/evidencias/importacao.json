@@ -1,0 +1,149 @@
+{
+  "task": {
+    "task": {
+      "id": "AaG8NwB7hQXxjEzKTt3t",
+      "type": "REPORT",
+      "componentId": "AaG8ICO1hQXxjEzKTtXg",
+      "componentKey": "lucaszg-drawio-importacao",
+      "componentName": "lucaszg-drawio-importacao",
+      "componentQualifier": "TRK",
+      "analysisId": "55180c38-c24b-48d4-adc7-41c45969d11a",
+      "status": "SUCCESS",
+      "submittedAt": "2026-11-08T17:31:23+0000",
+      "submitterLogin": "lucaszg-g-0JgHv@github",
+      "startedAt": "2026-11-08T17:31:23+0000",
+      "executedAt": "2026-11-08T17:31:30+0000",
+      "executionTimeMs": 6408,
+      "logs": false,
+      "hasScannerContext": true,
+      "organization": "drawio-sonarcloud-testes-qualidade",
+      "warningCount": 0,
+      "warnings": []
+    }
+  },
+  "analysis": {
+    "paging": {
+      "pageIndex": 1,
+      "pageSize": 1,
+      "total": 1
+    },
+    "analyses": [
+      {
+        "key": "55180c38-c24b-48d4-adc7-41c45969d11a",
+        "date": "2026-11-08T17:29:58+0000",
+        "events": [
+          {
+            "key": "AaG8Nxl3z0zoRdwyr4fC",
+            "category": "VERSION",
+            "name": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3"
+          }
+        ],
+        "projectVersion": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3",
+        "manualNewCodePeriodBaseline": false,
+        "revision": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3"
+      }
+    ]
+  },
+  "arquivos": {
+    "paging": {
+      "pageIndex": 1,
+      "pageSize": 500,
+      "total": 8
+    },
+    "baseComponent": {
+      "organization": "drawio-sonarcloud-testes-qualidade",
+      "key": "lucaszg-drawio-importacao",
+      "name": "lucaszg-drawio-importacao",
+      "qualifier": "TRK",
+      "tags": [],
+      "visibility": "public"
+    },
+    "components": [
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "lucaszg-drawio-importacao:src/001_EditorUi_prototype_validateFileData.js",
+        "name": "001_EditorUi_prototype_validateFileData.js",
+        "qualifier": "FIL",
+        "path": "src/001_EditorUi_prototype_validateFileData.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "lucaszg-drawio-importacao:src/002_EditorUi_prototype_setFileData.js",
+        "name": "002_EditorUi_prototype_setFileData.js",
+        "qualifier": "FIL",
+        "path": "src/002_EditorUi_prototype_setFileData.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "lucaszg-drawio-importacao:src/003_EditorUi_prototype_openFiles.js",
+        "name": "003_EditorUi_prototype_openFiles.js",
+        "qualifier": "FIL",
+        "path": "src/003_EditorUi_prototype_openFiles.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "lucaszg-drawio-importacao:src/004_EditorUi_prototype_openFileHandle.js",
+        "name": "004_EditorUi_prototype_openFileHandle.js",
+        "qualifier": "FIL",
+        "path": "src/004_EditorUi_prototype_openFileHandle.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "lucaszg-drawio-importacao:src/005_EditorUi_prototype_openLocalFile.js",
+        "name": "005_EditorUi_prototype_openLocalFile.js",
+        "qualifier": "FIL",
+        "path": "src/005_EditorUi_prototype_openLocalFile.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "lucaszg-drawio-importacao:src/006_Editor_extractGraphModel.js",
+        "name": "006_Editor_extractGraphModel.js",
+        "qualifier": "FIL",
+        "path": "src/006_Editor_extractGraphModel.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "lucaszg-drawio-importacao:src/007_Editor_prototype_extractGraphModel.js",
+        "name": "007_Editor_prototype_extractGraphModel.js",
+        "qualifier": "FIL",
+        "path": "src/007_Editor_prototype_extractGraphModel.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "lucaszg-drawio-importacao:src/008_Editor_prototype_setGraphXml.js",
+        "name": "008_Editor_prototype_setGraphXml.js",
+        "qualifier": "FIL",
+        "path": "src/008_Editor_prototype_setGraphXml.js",
+        "language": "js"
+      }
+    ]
+  },
+  "medidas": {
+    "component": {
+      "id": "AaG8ICO1hQXxjEzKTtXg",
+      "key": "lucaszg-drawio-importacao",
+      "name": "lucaszg-drawio-importacao",
+      "qualifier": "TRK",
+      "measures": [
+        {
+          "metric": "functions",
+          "value": "25"
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "275",
+          "bestValue": false
+        }
+      ]
+    }
+  },
+  "commit": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3",
+  "projeto": "lucaszg-drawio-importacao"
+}

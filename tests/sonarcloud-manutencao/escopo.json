@@ -1,0 +1,296 @@
+{
+  "importacao": [
+    {
+      "arquivo": "src/main/webapp/js/diagramly/EditorUi.js",
+      "sha256_lf": "ba990915c646980807ef6fd16ffbb6a9ac2a3cdfb5d68b3c523fda8d6a271b0a",
+      "blocos": [
+        {
+          "assinatura": "EditorUi.prototype.validateFileData",
+          "inicio": 2376,
+          "fim": 2393,
+          "sha256_lf": "1427aba8fdc0c4216760c6542e93b086422c35ef1d426c617a77335004a304d6"
+        },
+        {
+          "assinatura": "EditorUi.prototype.setFileData",
+          "inicio": 3665,
+          "fim": 3811,
+          "sha256_lf": "a2dddea043b711e3354b50b80f25f3447259bc221f95df82483790529f9ffce4"
+        },
+        {
+          "assinatura": "EditorUi.prototype.openFiles",
+          "inicio": 30138,
+          "fim": 30181,
+          "sha256_lf": "07bf1ae7d986f3f76b75df41cb85503b41b3533b65f0971aa4fc8d4044fdd8e8"
+        },
+        {
+          "assinatura": "EditorUi.prototype.openFileHandle",
+          "inicio": 29978,
+          "fim": 30133,
+          "sha256_lf": "f02adf7f6a97c9e047a6f03eb3d0b7cc5d4c37b3ccc889556457ebac5f1c7120"
+        },
+        {
+          "assinatura": "EditorUi.prototype.openLocalFile",
+          "inicio": 30186,
+          "fim": 30273,
+          "sha256_lf": "3c683d0fb2bae3814c1c8e86d9a0a30433a78ec4cda0c9dcd4f738c91dfd79bd"
+        }
+      ]
+    },
+    {
+      "arquivo": "src/main/webapp/js/diagramly/Editor.js",
+      "sha256_lf": "29f9452924c173a4bc1fa24f1138b95890d2dc1e4805b161c6e8a2922ac6d260",
+      "blocos": [
+        {
+          "assinatura": "Editor.extractGraphModel",
+          "inicio": 2597,
+          "fim": 2703,
+          "sha256_lf": "02fd6ca494d9b7acc63c590b9f3be1612f84d2dc55d2eca5373ea0c4833da52d"
+        },
+        {
+          "assinatura": "Editor.prototype.extractGraphModel",
+          "inicio": 4913,
+          "fim": 4916,
+          "sha256_lf": "6d18dadfa83a2589894c941cf646d652975e7c80b5de32a79ca15eeaa74f0167"
+        },
+        {
+          "assinatura": "Editor.prototype.setGraphXml",
+          "inicio": 4719,
+          "fim": 4820,
+          "sha256_lf": "ef8d11f29f1645e17ad4c27799e013bd98c403893b541d2c5cbca7ff3aa11b23"
+        }
+      ]
+    }
+  ],
+  "rotulos": [
+    {
+      "arquivo": "src/main/webapp/js/grapheditor/Graph.js",
+      "sha256_lf": "8181e93a2951ac0aecddb61cbdc6a1fe12db1356ea59ad19ea14e70a2de1a825",
+      "blocos": [
+        {
+          "assinatura": "Graph.prototype.cellLabelChanged",
+          "inicio": 38187,
+          "fim": 38244,
+          "sha256_lf": "e0b6b26d345075b2636228698c49319f5db72f703a5731053f9a0e9558071ee1"
+        },
+        {
+          "assinatura": "Graph.prototype.getLabel",
+          "inicio": 15784,
+          "fim": 15805,
+          "sha256_lf": "df99254146c062c711cceabe519847f7fe060f088b69068f623e74335b081f82"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.isContentEditing",
+          "inicio": 45120,
+          "fim": 45125,
+          "sha256_lf": "c41e081134f201ed0826f4548f351c7bac7beca2b7f1a25355218e0a5880fbe6"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.insertTab",
+          "inicio": 45195,
+          "fim": 45207,
+          "sha256_lf": "27217ee4fce92fa2176e3e768ddee8d49498fcdb5a42a754f130120061eb9a9b"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.alignText",
+          "inicio": 45217,
+          "fim": 45258,
+          "sha256_lf": "41e5b13c2b1c8087e9d2cc54b2c2aedd3209f141de0e7505d31a7f9b986ef131"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.saveSelection",
+          "inicio": 45263,
+          "fim": 45287,
+          "sha256_lf": "dda28cdd9753f9e7d27d4974591d0b49b84515aec6ac81a4212175eec3f48741"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.restoreSelection",
+          "inicio": 45292,
+          "fim": 45318,
+          "sha256_lf": "e087845a46c65e4cd21def88c12d5eb829727fa8b08905354a970ab6ee21af1e"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.startEditing",
+          "inicio": 46070,
+          "fim": 46152,
+          "sha256_lf": "a323e188e3d45a753eb96e745e4d0690bfba866968c318944ef2ea2a7bcd8196"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.toggleViewMode",
+          "inicio": 46154,
+          "fim": 46293,
+          "sha256_lf": "309cd0ec8366b5e5738d1d825696ab28f3889503d9d7767a656d9d3cf7c568c9"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.resize",
+          "inicio": 46296,
+          "fim": 46571,
+          "sha256_lf": "996408c52dd0745194b882a9a1ead9edba384b42c5b7abc61da0eab19d8237ed"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.getInitialValue",
+          "inicio": 46607,
+          "fim": 46624,
+          "sha256_lf": "92fe4c69d76657e5bf2590c72aec7237ebb7e22ff888ea938cff413d9fc1b9f0"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.setEditingValue",
+          "inicio": 46627,
+          "fim": 46644,
+          "sha256_lf": "7082cfb62791452b9d9061b5b94adfe922e301da0850b346526f8af57e24baaf"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.getCurrentValue",
+          "inicio": 46647,
+          "fim": 46700,
+          "sha256_lf": "e6f753ad6da90555d90e64685c60e5961fad1519bceaa25c9a86c8dcdc4016eb"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.stopEditing",
+          "inicio": 46703,
+          "fim": 46752,
+          "sha256_lf": "39ffe6b06a4aac1ec1550cac8be9f6dafa2e161b568c1a5806d6a2a953217a51"
+        },
+        {
+          "assinatura": "mxCellEditor.prototype.applyValue",
+          "inicio": 46767,
+          "fim": 46787,
+          "sha256_lf": "796f3a5aeaa0d119f0dd59f0a190d8c20efbfde7ccf93df1d84b1a2fba9b6ade"
+        }
+      ]
+    },
+    {
+      "arquivo": "src/main/webapp/js/grapheditor/Format.js",
+      "sha256_lf": "5100863d411acd0bf27b5e96c3633b1a3709a8472717ba9152d49eef54d3e438",
+      "blocos": [
+        {
+          "assinatura": "TextFormatPanel",
+          "inicio": 4683,
+          "fim": 4687,
+          "sha256_lf": "004290789f2eee7768fdbe029bef86d022ffb1ef35bcdd0f62e50bd69fb12f26"
+        },
+        {
+          "assinatura": "TextFormatPanel.prototype.init",
+          "inicio": 4694,
+          "fim": 4698,
+          "sha256_lf": "e99855f0114ae6f37c9c691b9289cb51e7c09af9767b899bfd3be19548912865"
+        },
+        {
+          "assinatura": "TextFormatPanel.prototype.addFontOps",
+          "inicio": 4704,
+          "fim": 4755,
+          "sha256_lf": "9dee6d8d3407ad4c53112127b044e84070f1d33fb387204f3789c0965853dc25"
+        },
+        {
+          "assinatura": "TextFormatPanel.prototype.createLabelBackgroundOption",
+          "inicio": 4769,
+          "fim": 4865,
+          "sha256_lf": "82f1241f02aff43e2fe0370f7b4be1dd6241c6e96ef6012e59e3b9950b3ae432"
+        },
+        {
+          "assinatura": "TextFormatPanel.prototype.addFont",
+          "inicio": 4955,
+          "fim": 6831,
+          "sha256_lf": "1c21e2a5499ffd425cd7aaa971d90e04429e919b5f2530fc2fe12ada0edbf54e"
+        }
+      ]
+    }
+  ],
+  "exportacao": [
+    {
+      "arquivo": "src/main/webapp/js/diagramly/EditorUi.js",
+      "sha256_lf": "ba990915c646980807ef6fd16ffbb6a9ac2a3cdfb5d68b3c523fda8d6a271b0a",
+      "blocos": [
+        {
+          "assinatura": "EditorUi.prototype.downloadFile",
+          "inicio": 3977,
+          "fim": 4128,
+          "sha256_lf": "b3747b046df02cbe94b8f32f87c7b74b533648b52a4f911c72d25ed43576ee8a"
+        },
+        {
+          "assinatura": "EditorUi.prototype.createDownloadRequest",
+          "inicio": 4131,
+          "fim": 4151,
+          "sha256_lf": "510bb269e65737450e36dbdf0dada4958aeeb31a600102c744f1c24a409d62d8"
+        },
+        {
+          "assinatura": "EditorUi.prototype.downloadRequestBuilder",
+          "inicio": 4158,
+          "fim": 4279,
+          "sha256_lf": "4ebd7b4530564022312616abb371c6ace7fb14cc480bfb76e6c5a59261b7c74c"
+        },
+        {
+          "assinatura": "EditorUi.prototype.exportSvg",
+          "inicio": 9307,
+          "fim": 9560,
+          "sha256_lf": "24f0aeca6f480e8ac44313863ef85021c1e4854a2456831bd559c66339724a2f"
+        },
+        {
+          "assinatura": "EditorUi.prototype.exportImage",
+          "inicio": 13341,
+          "fim": 13448,
+          "sha256_lf": "f3c1f865b90558f5e8c9e6f010a4dfb72302d2b0a3ac381b0ce577cdf8a2b90a"
+        },
+        {
+          "assinatura": "EditorUi.prototype.showExportDialog",
+          "inicio": 11399,
+          "fim": 12342,
+          "sha256_lf": "37d18cf158a1521dc656a4851f7e832aa91efe9194ee741b07310513082740f0"
+        },
+        {
+          "assinatura": "EditorUi.prototype.showRemoteExportDialog",
+          "inicio": 11015,
+          "fim": 11102,
+          "sha256_lf": "69f2986eda5b1220775adae8e0d8cefccca7cc305763ec502ef05e1d52c2c3d3"
+        },
+        {
+          "assinatura": "ExportDialog.exportFile",
+          "inicio": 39407,
+          "fim": 39480,
+          "sha256_lf": "e22367d07575b86352b3c3963a02960375f9cd6e31172d018b37c0f0776630ef"
+        }
+      ]
+    },
+    {
+      "arquivo": "src/main/webapp/js/diagramly/Editor.js",
+      "sha256_lf": "29f9452924c173a4bc1fa24f1138b95890d2dc1e4805b161c6e8a2922ac6d260",
+      "blocos": [
+        {
+          "assinatura": "Editor.prototype.exportToCanvas",
+          "inicio": 7075,
+          "fim": 7341,
+          "sha256_lf": "23f9e6629a3f572c16450b0ae0ac2a3f019390f11b29b22ffe6861bbb801e405"
+        },
+        {
+          "assinatura": "Graph.prototype.getSvg",
+          "inicio": 10731,
+          "fim": 10821,
+          "sha256_lf": "98c032adf73447a3a38733f972fbcbef3dd3835e95052c4e82c1d666ebc4be56"
+        }
+      ]
+    },
+    {
+      "arquivo": "src/main/webapp/js/grapheditor/Graph.js",
+      "sha256_lf": "8181e93a2951ac0aecddb61cbdc6a1fe12db1356ea59ad19ea14e70a2de1a825",
+      "blocos": [
+        {
+          "assinatura": "Graph.prototype.getSvg",
+          "inicio": 40861,
+          "fim": 41289,
+          "sha256_lf": "9f9e784247fb31fb90eca11de047d3b9bb1cf7dd103033e5e431f3e1ccc059ea"
+        },
+        {
+          "assinatura": "Graph.prototype.createSvgImageExport",
+          "inicio": 40569,
+          "fim": 40831,
+          "sha256_lf": "8a320b0dd12892bc045dfceb3ab871fa1bd7c7065c44f844942db6b4617b897c"
+        },
+        {
+          "assinatura": "Graph.prototype.createSvgCanvas",
+          "inicio": 41396,
+          "fim": 41415,
+          "sha256_lf": "81724def52ce6d9692508ce4b40afcd2ea5cc26b6c8ee79b4225e5ef1d860ea2"
+        }
+      ]
+    }
+  ]
+}

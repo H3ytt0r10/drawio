@@ -1,0 +1,50 @@
+{
+  "data_utc": "2026-11-08T17:47:34.620665+00:00",
+  "commit": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3",
+  "versao": "32.6.10",
+  "referencia_commit": "c41e8cb60d0e7ffe776a94ae24c58115f7c59f26",
+  "resultados": {
+    "importacao": {
+      "metrica": "M3.1",
+      "questao": "Q3.1",
+      "componentes_calculo": {
+        "cognitive_complexity": 275,
+        "functions": 25
+      },
+      "valor": 11.0,
+      "julgamento": "Atenção",
+      "status": "medido_no_recorte",
+      "analysis_id": "55180c38-c24b-48d4-adc7-41c45969d11a",
+      "projeto": "lucaszg-drawio-importacao",
+      "dashboard": "https://sonarcloud.io/dashboard?id=lucaszg-drawio-importacao"
+    },
+    "rotulos": {
+      "metrica": "M3.1",
+      "questao": "Q3.2",
+      "componentes_calculo": {
+        "cognitive_complexity": 1057,
+        "functions": 116
+      },
+      "valor": 9.112068965517242,
+      "julgamento": "Adequado",
+      "status": "medido_no_recorte",
+      "analysis_id": "4853c608-87f3-477c-ae03-18d6f2fab544",
+      "projeto": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos",
+      "dashboard": "https://sonarcloud.io/dashboard?id=drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos"
+    },
+    "exportacao": {
+      "metrica": "M3.2",
+      "questao": "Q3.3",
+      "componentes_calculo": {
+        "duplicated_lines": 28,
+        "lines": 2846
+      },
+      "valor": 0.9838369641602248,
+      "julgamento": "Adequado",
+      "status": "medido_no_recorte",
+      "analysis_id": "932752e9-e32c-4e9f-877f-b208641f4374",
+      "projeto": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao",
+      "dashboard": "https://sonarcloud.io/dashboard?id=drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao"
+    }
+  }
+}

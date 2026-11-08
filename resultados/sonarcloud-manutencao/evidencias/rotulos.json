@@ -1,0 +1,245 @@
+{
+  "task": {
+    "task": {
+      "id": "AaG8RPSTbE9rxH86FwoI",
+      "type": "REPORT",
+      "componentId": "AaG8KNDIyB6rxKezFVQE",
+      "componentKey": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos",
+      "componentName": "lucaszg-drawio-rotulos",
+      "componentQualifier": "TRK",
+      "analysisId": "4853c608-87f3-477c-ae03-18d6f2fab544",
+      "status": "SUCCESS",
+      "submittedAt": "2026-11-08T17:46:38+0000",
+      "submitterLogin": "lucaszg-g-0JgHv@github",
+      "startedAt": "2026-11-08T17:46:38+0000",
+      "executedAt": "2026-11-08T17:46:49+0000",
+      "executionTimeMs": 11633,
+      "logs": false,
+      "hasScannerContext": true,
+      "organization": "drawio-sonarcloud-testes-qualidade",
+      "warningCount": 0,
+      "warnings": []
+    }
+  },
+  "analysis": {
+    "paging": {
+      "pageIndex": 1,
+      "pageSize": 1,
+      "total": 2
+    },
+    "analyses": [
+      {
+        "key": "4853c608-87f3-477c-ae03-18d6f2fab544",
+        "date": "2026-11-08T17:43:48+0000",
+        "events": [
+          {
+            "key": "AaG8RSDmf0qErduKDB-d",
+            "category": "VERSION",
+            "name": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3"
+          }
+        ],
+        "projectVersion": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3",
+        "manualNewCodePeriodBaseline": false,
+        "revision": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3"
+      }
+    ]
+  },
+  "arquivos": {
+    "paging": {
+      "pageIndex": 1,
+      "pageSize": 500,
+      "total": 20
+    },
+    "baseComponent": {
+      "organization": "drawio-sonarcloud-testes-qualidade",
+      "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos",
+      "name": "lucaszg-drawio-rotulos",
+      "qualifier": "TRK",
+      "tags": [],
+      "visibility": "public"
+    },
+    "components": [
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/001_Graph_prototype_cellLabelChanged.js",
+        "name": "001_Graph_prototype_cellLabelChanged.js",
+        "qualifier": "FIL",
+        "path": "src/001_Graph_prototype_cellLabelChanged.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/002_Graph_prototype_getLabel.js",
+        "name": "002_Graph_prototype_getLabel.js",
+        "qualifier": "FIL",
+        "path": "src/002_Graph_prototype_getLabel.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/003_mxCellEditor_prototype_isContentEditing.js",
+        "name": "003_mxCellEditor_prototype_isContentEditing.js",
+        "qualifier": "FIL",
+        "path": "src/003_mxCellEditor_prototype_isContentEditing.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/004_mxCellEditor_prototype_insertTab.js",
+        "name": "004_mxCellEditor_prototype_insertTab.js",
+        "qualifier": "FIL",
+        "path": "src/004_mxCellEditor_prototype_insertTab.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/005_mxCellEditor_prototype_alignText.js",
+        "name": "005_mxCellEditor_prototype_alignText.js",
+        "qualifier": "FIL",
+        "path": "src/005_mxCellEditor_prototype_alignText.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/006_mxCellEditor_prototype_saveSelection.js",
+        "name": "006_mxCellEditor_prototype_saveSelection.js",
+        "qualifier": "FIL",
+        "path": "src/006_mxCellEditor_prototype_saveSelection.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/007_mxCellEditor_prototype_restoreSelection.js",
+        "name": "007_mxCellEditor_prototype_restoreSelection.js",
+        "qualifier": "FIL",
+        "path": "src/007_mxCellEditor_prototype_restoreSelection.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/008_mxCellEditor_prototype_startEditing.js",
+        "name": "008_mxCellEditor_prototype_startEditing.js",
+        "qualifier": "FIL",
+        "path": "src/008_mxCellEditor_prototype_startEditing.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/009_mxCellEditor_prototype_toggleViewMode.js",
+        "name": "009_mxCellEditor_prototype_toggleViewMode.js",
+        "qualifier": "FIL",
+        "path": "src/009_mxCellEditor_prototype_toggleViewMode.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/010_mxCellEditor_prototype_resize.js",
+        "name": "010_mxCellEditor_prototype_resize.js",
+        "qualifier": "FIL",
+        "path": "src/010_mxCellEditor_prototype_resize.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/011_mxCellEditor_prototype_getInitialValue.js",
+        "name": "011_mxCellEditor_prototype_getInitialValue.js",
+        "qualifier": "FIL",
+        "path": "src/011_mxCellEditor_prototype_getInitialValue.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/012_mxCellEditor_prototype_setEditingValue.js",
+        "name": "012_mxCellEditor_prototype_setEditingValue.js",
+        "qualifier": "FIL",
+        "path": "src/012_mxCellEditor_prototype_setEditingValue.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/013_mxCellEditor_prototype_getCurrentValue.js",
+        "name": "013_mxCellEditor_prototype_getCurrentValue.js",
+        "qualifier": "FIL",
+        "path": "src/013_mxCellEditor_prototype_getCurrentValue.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/014_mxCellEditor_prototype_stopEditing.js",
+        "name": "014_mxCellEditor_prototype_stopEditing.js",
+        "qualifier": "FIL",
+        "path": "src/014_mxCellEditor_prototype_stopEditing.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/015_mxCellEditor_prototype_applyValue.js",
+        "name": "015_mxCellEditor_prototype_applyValue.js",
+        "qualifier": "FIL",
+        "path": "src/015_mxCellEditor_prototype_applyValue.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/016_TextFormatPanel.js",
+        "name": "016_TextFormatPanel.js",
+        "qualifier": "FIL",
+        "path": "src/016_TextFormatPanel.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/017_TextFormatPanel_prototype_init.js",
+        "name": "017_TextFormatPanel_prototype_init.js",
+        "qualifier": "FIL",
+        "path": "src/017_TextFormatPanel_prototype_init.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/018_TextFormatPanel_prototype_addFontOps.js",
+        "name": "018_TextFormatPanel_prototype_addFontOps.js",
+        "qualifier": "FIL",
+        "path": "src/018_TextFormatPanel_prototype_addFontOps.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/019_TextFormatPanel_prototype_createLabelBackgroundOption.js",
+        "name": "019_TextFormatPanel_prototype_createLabelBackgroundOption.js",
+        "qualifier": "FIL",
+        "path": "src/019_TextFormatPanel_prototype_createLabelBackgroundOption.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos:src/020_TextFormatPanel_prototype_addFont.js",
+        "name": "020_TextFormatPanel_prototype_addFont.js",
+        "qualifier": "FIL",
+        "path": "src/020_TextFormatPanel_prototype_addFont.js",
+        "language": "js"
+      }
+    ]
+  },
+  "medidas": {
+    "component": {
+      "id": "AaG8KNDIyB6rxKezFVQE",
+      "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos",
+      "name": "lucaszg-drawio-rotulos",
+      "qualifier": "TRK",
+      "measures": [
+        {
+          "metric": "functions",
+          "value": "116"
+        },
+        {
+          "metric": "cognitive_complexity",
+          "value": "1057",
+          "bestValue": false
+        }
+      ]
+    }
+  },
+  "commit": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3",
+  "projeto": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-rotulos"
+}

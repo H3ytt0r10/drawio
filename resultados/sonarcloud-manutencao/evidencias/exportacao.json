@@ -1,0 +1,189 @@
+{
+  "task": {
+    "task": {
+      "id": "AaG8OkuaYN-65yNNqmQN",
+      "type": "REPORT",
+      "componentId": "AaG8KdfFhQXxjEzKTtmb",
+      "componentKey": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao",
+      "componentName": "lucaszg-drawio-exportacao",
+      "componentQualifier": "TRK",
+      "analysisId": "932752e9-e32c-4e9f-877f-b208641f4374",
+      "status": "SUCCESS",
+      "submittedAt": "2026-11-08T17:34:59+0000",
+      "submitterLogin": "lucaszg-g-0JgHv@github",
+      "startedAt": "2026-11-08T17:35:00+0000",
+      "executedAt": "2026-11-08T17:35:01+0000",
+      "executionTimeMs": 1358,
+      "logs": false,
+      "hasScannerContext": true,
+      "organization": "drawio-sonarcloud-testes-qualidade",
+      "warningCount": 0,
+      "warnings": []
+    }
+  },
+  "analysis": {
+    "paging": {
+      "pageIndex": 1,
+      "pageSize": 1,
+      "total": 1
+    },
+    "analyses": [
+      {
+        "key": "932752e9-e32c-4e9f-877f-b208641f4374",
+        "date": "2026-11-08T17:34:06+0000",
+        "events": [
+          {
+            "key": "AaG8OlH2tq8cOF-nkSF3",
+            "category": "VERSION",
+            "name": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3"
+          }
+        ],
+        "projectVersion": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3",
+        "manualNewCodePeriodBaseline": false,
+        "revision": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3"
+      }
+    ]
+  },
+  "arquivos": {
+    "paging": {
+      "pageIndex": 1,
+      "pageSize": 500,
+      "total": 13
+    },
+    "baseComponent": {
+      "organization": "drawio-sonarcloud-testes-qualidade",
+      "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao",
+      "name": "lucaszg-drawio-exportacao",
+      "qualifier": "TRK",
+      "tags": [],
+      "visibility": "public"
+    },
+    "components": [
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/001_EditorUi_prototype_downloadFile.js",
+        "name": "001_EditorUi_prototype_downloadFile.js",
+        "qualifier": "FIL",
+        "path": "src/001_EditorUi_prototype_downloadFile.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/002_EditorUi_prototype_createDownloadRequest.js",
+        "name": "002_EditorUi_prototype_createDownloadRequest.js",
+        "qualifier": "FIL",
+        "path": "src/002_EditorUi_prototype_createDownloadRequest.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/003_EditorUi_prototype_downloadRequestBuilder.js",
+        "name": "003_EditorUi_prototype_downloadRequestBuilder.js",
+        "qualifier": "FIL",
+        "path": "src/003_EditorUi_prototype_downloadRequestBuilder.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/004_EditorUi_prototype_exportSvg.js",
+        "name": "004_EditorUi_prototype_exportSvg.js",
+        "qualifier": "FIL",
+        "path": "src/004_EditorUi_prototype_exportSvg.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/005_EditorUi_prototype_exportImage.js",
+        "name": "005_EditorUi_prototype_exportImage.js",
+        "qualifier": "FIL",
+        "path": "src/005_EditorUi_prototype_exportImage.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/006_EditorUi_prototype_showExportDialog.js",
+        "name": "006_EditorUi_prototype_showExportDialog.js",
+        "qualifier": "FIL",
+        "path": "src/006_EditorUi_prototype_showExportDialog.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/007_EditorUi_prototype_showRemoteExportDialog.js",
+        "name": "007_EditorUi_prototype_showRemoteExportDialog.js",
+        "qualifier": "FIL",
+        "path": "src/007_EditorUi_prototype_showRemoteExportDialog.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/008_ExportDialog_exportFile.js",
+        "name": "008_ExportDialog_exportFile.js",
+        "qualifier": "FIL",
+        "path": "src/008_ExportDialog_exportFile.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/009_Editor_prototype_exportToCanvas.js",
+        "name": "009_Editor_prototype_exportToCanvas.js",
+        "qualifier": "FIL",
+        "path": "src/009_Editor_prototype_exportToCanvas.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/010_Graph_prototype_getSvg.js",
+        "name": "010_Graph_prototype_getSvg.js",
+        "qualifier": "FIL",
+        "path": "src/010_Graph_prototype_getSvg.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/011_Graph_prototype_getSvg.js",
+        "name": "011_Graph_prototype_getSvg.js",
+        "qualifier": "FIL",
+        "path": "src/011_Graph_prototype_getSvg.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/012_Graph_prototype_createSvgImageExport.js",
+        "name": "012_Graph_prototype_createSvgImageExport.js",
+        "qualifier": "FIL",
+        "path": "src/012_Graph_prototype_createSvgImageExport.js",
+        "language": "js"
+      },
+      {
+        "organization": "drawio-sonarcloud-testes-qualidade",
+        "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao:src/013_Graph_prototype_createSvgCanvas.js",
+        "name": "013_Graph_prototype_createSvgCanvas.js",
+        "qualifier": "FIL",
+        "path": "src/013_Graph_prototype_createSvgCanvas.js",
+        "language": "js"
+      }
+    ]
+  },
+  "medidas": {
+    "component": {
+      "id": "AaG8KdfFhQXxjEzKTtmb",
+      "key": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao",
+      "name": "lucaszg-drawio-exportacao",
+      "qualifier": "TRK",
+      "measures": [
+        {
+          "metric": "duplicated_lines",
+          "value": "28",
+          "bestValue": false
+        },
+        {
+          "metric": "lines",
+          "value": "2846"
+        }
+      ]
+    }
+  },
+  "commit": "c72c9a98b7a6ce392556ed04c05e0ff19f43f5c3",
+  "projeto": "drawio-sonarcloud-testes-qualidade_lucaszg-drawio-exportacao"
+}
